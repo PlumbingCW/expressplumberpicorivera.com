@@ -239,3 +239,5 @@ footer.site-footer{background:var(--saph-dd);color:#C9D6EA;padding:46px 0 24px;f
 }
 @media(max-width:480px){.topbar .hrs{display:none}.logo img{height:40px}}
 main p,main li,main a,.site-footer address,.site-footer a{overflow-wrap:anywhere}
+
+.hood-links{display:flex;flex-wrap:wrap;gap:10px;margin-top:6px}.hood-link{display:inline-block;padding:10px 18px;border:1px solid var(--line);border-radius:999px;background:var(--bg2);color:var(--saph-d);font-weight:600;text-decoration:none}.hood-link:hover{background:var(--bg3);color:var(--saph-d)}
